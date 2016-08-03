@@ -5,3 +5,4 @@ master:test3
 branch 1.0: test
 
 branch 2.0: text from local
+branch 2.0: text from local2
