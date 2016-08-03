@@ -190,6 +190,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\app.module.js" />
     <Content Include="Content\angular-material.css" />
     <Content Include="Content\angular-material.layouts.css" />
     <Content Include="Content\angular-material.layouts.min.css" />
