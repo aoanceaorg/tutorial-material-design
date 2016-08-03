@@ -5,6 +5,7 @@ master:test3
 branch 1.0: test
 
 branch 1.0: text from local
+branch 1.0: text from browser
 branch 1.0: text from local2
 
 branch 2.0: text from local
