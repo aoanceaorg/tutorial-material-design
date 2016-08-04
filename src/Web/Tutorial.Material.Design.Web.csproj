@@ -212,6 +212,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="master.file.1.txt" />
     <Content Include="master.file.3.txt" />
+    <Content Include="master.file.4.txt" />
+    <Content Include="master.file.5.txt" />
     <Content Include="Scripts\angular-animate\angular-animate.js" />
     <Content Include="Scripts\angular-animate\angular-animate.min.js" />
     <Content Include="Scripts\angular-aria\angular-aria.js" />
