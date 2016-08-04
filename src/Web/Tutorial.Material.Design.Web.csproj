@@ -191,6 +191,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\app.module.js" />
+    <Content Include="branch 1.0.file.1.txt" />
+    <Content Include="branch 1.0.file.2.txt" />
     <Content Include="Content\angular-material.css" />
     <Content Include="Content\angular-material.layouts.css" />
     <Content Include="Content\angular-material.layouts.min.css" />
