@@ -205,6 +205,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="master.file.1.txt" />
+    <Content Include="master.file.3.txt" />
     <Content Include="Scripts\angular-animate\angular-animate.js" />
     <Content Include="Scripts\angular-animate\angular-animate.min.js" />
     <Content Include="Scripts\angular-aria\angular-aria.js" />
@@ -225,6 +227,7 @@
     <Content Include="Content\mdl-v1.1.2\material.min.css.map" />
     <Content Include="Content\mdl-v1.1.2\LICENSE" />
     <Content Include="Content\mdl-v1.1.2\bower.json" />
+    <Content Include="master.file.2.txt" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
