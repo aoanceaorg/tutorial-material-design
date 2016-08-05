@@ -20,3 +20,6 @@ branch 1.0: another text from local
 
 branch 1.0: text from local part 2
 branch 1.0: another text from local part 2
+
+
+branch 1.0: text from source tree
